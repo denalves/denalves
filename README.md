@@ -4,6 +4,13 @@ Atualmente estou cursando o ultimo semestre do curso tecnólogo de análise e de
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denalves&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denalves&layout=compact&theme=onedark)
 
+###Conhecimentos :
+📌 html
+📌 css
+📌 javascript
+📌 reactjs
+📌 bootstrap
+
 
 
 <!--
